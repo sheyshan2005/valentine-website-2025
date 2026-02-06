@@ -16,7 +16,6 @@ const CONFIG = {
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
-        elephant: ['🐘',]                       // Cute elephant emojis
     },
 
     // Questions and answers
